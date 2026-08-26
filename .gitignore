@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+
+# Laravel
+backend/vendor/
+backend/node_modules/
+!backend/.env.example
+
+# Logs
+*.log
